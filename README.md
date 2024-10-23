@@ -1,8 +1,8 @@
-<h1 align="left">Hey :wave: What's up?</h1>
-###
-<p align="left">My name is Gerardo and I'm a web developer, from Florida.</p>
-###
-<h2 align="left">About me</h2>
+<h1 align="left">Hey! :wave: </h1>
+<h2 align="left"> My name is Gerardo Rivas </h2>
+ <p>  I'm a web developer, in Florida. </p>
+
+<h4 align="left">About me:</h4>
 
 <p align="left">I'm a dedicated and detail-oriented individual aiming to excel in the tech industry.<br><br>:briefcase: Transitioning from management and customer service into web development.<br>:sparkles: Creating websites since 2024.<br>:books: I'm currently learning more languages like C#, C+, C++, and mastering my knowledge in Javascript and Python.<br>:dart: Goals: Be the best programmer I can be and bring creative works and ideas to life.<br>:game_die: Fun fact: I was born in Venezuela and came to the USA at age 3!</p>
 ###
