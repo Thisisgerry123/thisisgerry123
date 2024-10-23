@@ -3,7 +3,7 @@
 <p align="left">My name is Gerardo and I'm a web developer, from Florida.</p>
 ###
 <h2 align="left">About me</h2>
-###
+
 <p align="left">I'm a dedicated and detail-oriented individual aiming to excel in the tech industry<br><br>:briefcase: Transitioning from sales and customer service into web development<br>:sparkles: Creating website since 2024<br>:books: I'm currently learning ...<br>:dart: Goals: ...<br>:game_die: Fun fact: ...</p>
 ###
 <h2 align="left">I code with</h2>
