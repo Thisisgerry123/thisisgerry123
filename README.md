@@ -4,7 +4,7 @@
 ###
 <h2 align="left">About me</h2>
 
-<p align="left">I'm a dedicated and detail-oriented individual aiming to excel in the tech industry<br><br>:briefcase: Transitioning from management and customer service into web development<br>:sparkles: Creating website since 2024<br>:books: I'm currently learning more languages like C#, C+, C++, and mastering my knowledge in Javascript and Python ...<br>:dart: Goals: Be the best programmer I can be and bring creative works and ideas to life. ...<br>:game_die: Fun fact: I was born in Venezuela and came to the US at age 3...</p>
+<p align="left">I'm a dedicated and detail-oriented individual aiming to excel in the tech industry<br><br>:briefcase: Transitioning from management and customer service into web development<br>:sparkles: Creating websites since 2024<br>:books: I'm currently learning more languages like C#, C+, C++, and mastering my knowledge in Javascript and Python ...<br>:dart: Goals: Be the best programmer I can be and bring creative works and ideas to life. ...<br>:game_die: Fun fact: I was born in Venezuela and came to the USA at age 3</p>
 ###
 <h2 align="left">I code with</h2>
 ###
