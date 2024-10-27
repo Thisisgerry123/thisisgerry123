@@ -5,9 +5,9 @@
 <h4 align="left">About me:</h4>
 
 <p align="left">I'm a dedicated and detail-oriented individual aiming to excel in the tech industry.<br><br>:briefcase: Transitioning from management and customer service into web development.<br>:sparkles: Creating websites since 2024.<br>:books: I'm currently learning more languages like C#, C+, C++, and mastering my knowledge in Javascript and Python.<br>:dart: Goals: Be the best programmer I can be and bring creative works and ideas to life.<br>:game_die: Fun fact: I was born in Venezuela and came to the USA at age 3!</p>
-###
+
 <h2 align="left">I code with</h2>
-###
+
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -33,12 +33,12 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
 </div>
-###
+
 <h2 align="left">Connect with me here</h2>
-###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/gerardoarturorivas/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-###
+
